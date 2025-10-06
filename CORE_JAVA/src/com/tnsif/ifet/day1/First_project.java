@@ -1,4 +1,4 @@
-package DAY1;
+package com.tnsif.ifet.day1;
 
 public class First_project {
 
