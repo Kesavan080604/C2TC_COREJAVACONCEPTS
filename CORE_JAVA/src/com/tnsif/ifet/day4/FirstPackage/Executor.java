@@ -1,4 +1,4 @@
-package com.tnsif.ifet.day4FirstPackage;
+package com.tnsif.ifet.day4.FirstPackage;
 
 public class Executor {
 	public static void main(String[] args) {

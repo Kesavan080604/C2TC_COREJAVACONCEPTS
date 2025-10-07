@@ -1,4 +1,4 @@
-package com.tnsif.ifet.day4FirstPackage;
+package com.tnsif.ifet.day4.FirstPackage;
 
 public class Base {
 	int varDefault=10;
