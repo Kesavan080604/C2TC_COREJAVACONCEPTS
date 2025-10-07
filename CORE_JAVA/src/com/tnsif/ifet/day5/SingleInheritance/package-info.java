@@ -1,0 +1,1 @@
+package com.tnsif.ifet.day5.SingleInheritance;
